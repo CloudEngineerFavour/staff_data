@@ -142,7 +142,6 @@ Status: Active
 ## 🧠 Core Competencies Demonstrated
 
 - **Linux Administration:** File system permissions, directory management, and pipeline output redirection.
-- **Advanced Text Processing:** Utilized `sed` with regular expressions (regex) to isolate numeric string patterns from filenames.
 - **Control Flow Automation:** Implemented dynamic variable mathematics, baseline if/then evaluations, and for-loop cycles.
 - **Production-Ready Logic:** Designed a script that preserves data integrity across repeated, manual executions.
 
